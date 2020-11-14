@@ -1,3 +1,5 @@
+![Main branch](https://github.com/dflima/tetris/workflows/Elixir%20CI/badge.svg?branch=main)
+
 # Tetris
 
 To start your Phoenix server:
